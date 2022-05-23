@@ -1,0 +1,19 @@
+.footer{
+    background-color: grey;
+    width: 100%;
+    position: absolute;
+    bottom: 0%;
+}
+footer ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+footer ul li{
+    list-style: none;
+    font-size: 30px; 
+    padding: 10px;
+}
+footer ul li a{
+    color: black;
+    
+}

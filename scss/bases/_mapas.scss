@@ -1,0 +1,10 @@
+$fuente:(
+    h1:2em,
+    h2: 1.8em,
+    h3: 1.5em,
+    texto: 18px,
+);
+$h1: map-get($fuente,h1);
+$h2: map-get($fuente,h2);
+$h3: map-get($fuente,h3);
+$texto: map-get($fuente,texto);
