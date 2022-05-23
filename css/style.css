@@ -352,3 +352,8 @@ textarea {
 .col-lg-4.col-sm-12 h4{
   margin-top: 10px;
 }
+.position-absolute.Top.Right{
+  top: 240px;
+  z-index: 10;
+  background-color: transparent;
+}
